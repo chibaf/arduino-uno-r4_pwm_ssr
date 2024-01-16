@@ -30,3 +30,5 @@ void loop() {}
 ##ref
 
 Under the Hood: Arduino UNO R4 - PWM - Phil Schatzmann https://www.pschatzmann.ch/home/2023/07/01/under-the-hood-arduino-uno-r4-pwm/
+
+Arduino UNO R4のGPTを試す（Arduino） - えいあーるれいの技術日記 https://ar-ray.hatenablog.com/entry/2023/07/09/203755
