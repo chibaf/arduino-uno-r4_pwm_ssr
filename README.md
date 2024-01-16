@@ -27,6 +27,8 @@ void setup() {
 
 void loop() {}
 
+![Screen Shot 2024-01-16 at 22 07 30](https://github.com/chibaf/arduino-uno-r4_pwm_ssr/assets/1296728/d304cfd2-e414-4dd3-b39b-2356769d8327)
+
 ##ref
 
 Under the Hood: Arduino UNO R4 - PWM - Phil Schatzmann https://www.pschatzmann.ch/home/2023/07/01/under-the-hood-arduino-uno-r4-pwm/
