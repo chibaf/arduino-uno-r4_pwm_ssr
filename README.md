@@ -27,6 +27,8 @@ void setup() {
 
 void loop() {}
 
+PINs PWM enabled
+
 ![Screen Shot 2024-01-16 at 22 07 30](https://github.com/chibaf/arduino-uno-r4_pwm_ssr/assets/1296728/d304cfd2-e414-4dd3-b39b-2356769d8327)
 
 ##ref
